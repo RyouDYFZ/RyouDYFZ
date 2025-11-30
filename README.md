@@ -4,6 +4,8 @@
 
 ## Welcome to my Github Homepage | 欢迎来到我的 GitHub 首页 🎉
 
+「无论现实将命运抛至何处，命运都有自己的朝向与归宿」
+
 ### Contribution History | 贡献历史
 [![RyouDYFZ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyouDYFZ&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
