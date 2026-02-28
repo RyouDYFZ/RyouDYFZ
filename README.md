@@ -30,7 +30,7 @@
 </p>
 
 - 💬 Ask me for software development assistance or Chinese-English translation
-- 📫 To reach me at FengzihangDanny@iCloud.com
+- 📫 To reach me at hi@dannyfeng.top
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 是一个可爱的女孩子哦——Another Trans? 🌈LGBTQ+🏳‍🌈🏳️‍⚧️
 - 🥰 可以叫我**小希子**或者**凉**哦
