@@ -32,14 +32,13 @@
 - 💬 Ask me for software development assistance or Chinese-English translation
 - 📫 To reach me at hi@dannyfeng.top
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 是一个可爱的女孩子哦——Another Trans? 🌈LGBTQ+🏳‍🌈🏳️‍⚧️
+- ⚡ Fun fact: 是一个可爱的女孩子哦～
 - 🥰 可以叫我**小希子**或者**凉**哦
 
 ### One More Thing | 还有些想说的
 - 最近压力真的好大 心态很不稳定（
 - 总之 感谢你看到这里
 - 🎇 What's Next?
-- ~~Progynova 是一种有意思的药物~~（请不要当真啊！！！）
 - ~~为什么想玩 CTF 还想学 Rust~~
 
 > May there'll be a day with no discrimination on LGBT community
