@@ -41,8 +41,6 @@
 - 🎇 What's Next?
 - ~~为什么想玩 CTF 还想学 Rust~~
 
-> May there'll be a day with no discrimination on LGBT community
-
 ### Music Together | 一起听歌
 
 [![Listen on Apple Music](https://img.shields.io/badge/Listen_on_Apple_Music-ff2a00?logo=apple&logoColor=white)](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
