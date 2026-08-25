@@ -7,13 +7,22 @@
 「无论现实将命运抛至何处，命运都有自己的朝向与归宿」
 
 ### Contribution History | 贡献历史
-[![RyouDYFZ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyouDYFZ&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RyouDYFZ's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RyouDYFZ)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Stats | 统计信息
 ![DannyFeng's GitHub stats](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api?username=RyouDYFZ&count_private=true&show_icons=true&theme=dracula)
 
 ### Tech Stacks | 技术栈
-<img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,ts,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
+#### Currently | 目前在用的
+<img src="https://skillicons.dev/icons?i=git,cs,swift,dotnet,md,powershell,visualstudio,vscode,rider,cloudflare,apple,windows" />
+
+#### Previously | 曾经用过的（或者是玩过的）
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,ts,vue,eclipse,androidstudio,idea,azure,vercel,linux,ubuntu" />
+
+#### My Girlfriend | 我对象用的 🥰
+<img src="https://skillicons.dev/icons?i=git,dart,flutter,md,visualstudio,vscode,androidstudio,apple,windows" />
+
+对的对的，就是我的 [@HaoduyouduDev](https://github.com/HaoduyouduDev)
 
 ### Some Participated Projects | 一些参与过的项目
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
