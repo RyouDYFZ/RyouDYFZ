@@ -25,6 +25,19 @@
 对的对的，就是我的 [@HaoduyouduDev](https://github.com/HaoduyouduDev)
 
 ### Some Participated Projects | 一些参与过的项目
+<p align="left">
+  <a href="https://apps.apple.com/us/app/vestalina/id6761720111">
+    <img width="48" height="48" alt="Vestalina" hspace="2" src="https://github.com/user-attachments/assets/155158b0-2643-4cf9-930b-317f7cdfb823" />
+  </a><a href="https://github.com/EasyRead-Open-Source">
+    <img width="48" height="48" alt="EasyRead" hspace="2" src="https://github.com/user-attachments/assets/5983a4da-eaa4-4aa7-b8c7-b173a3c5dc2c" />
+  </a><a href="https://github.com/Darock-Studio/Darock-Bili">
+    <img width="48" height="48" alt="Darock-Bili" hspace="2" src="https://github.com/user-attachments/assets/16a17514-6ae5-4e43-b8f8-35f8cf0489b2" />
+  </a><a href="https://github.com/ClassIsland/ClassIsland">
+    <img width="48" height="48" alt="ClassIsland" hspace="2" src="https://github.com/user-attachments/assets/4ac4fb35-8d93-4c2c-8808-4d1a49205d68" />
+  </a>
+</p>
+
+
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Groupguanfang&repo=arkTS)](https://github.com/Groupguanfang/arkTS)
