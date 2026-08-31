@@ -37,9 +37,40 @@
   </a>
 </p>
 
+#### And these | 还可以再看看这些哦
 
+##### DailyRead
+一个每天 Fetch BBC 文章并使用 DeepSeek API 生成词汇积累的小网站
+
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=RyouDYFZ&repo=DailyRead)](https://github.com/RyouDYFZ/DailyRead)
+
+##### LiquidGlassKit
+一个尝试通过 Metal 再现 Liquid Glass 的 Demo，由 Codex 呈现
+
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=RyouDYFZ&repo=LiquidGlassKit)](https://github.com/RyouDYFZ/LiquidGlassKit)
+
+##### EasyBili
+一个 Swift Package Dependency，包装了好多好多的哔哩哔哩 APIs
+
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=RyouDYFZ&repo=EasyBili)](https://github.com/RyouDYFZ/EasyBili)
+
+##### Alcove Workbench
+~~Alcove 激活小工具~~，还有很多种玩法
+
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=RyouDYFZ&repo=Alcove-Workbench)](https://github.com/RyouDYFZ/Alcove-Workbench)
+
+##### StoreCrack
+~~Microsoft Store App 破解器~~，用来备份你的 Microsoft Store Apps
+
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=RyouDYFZ&repo=StoreCrack)](https://github.com/RyouDYFZ/StoreCrack)
+
+##### Inno Setup Action
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Minionguyjpro&repo=Inno-Setup-Action)](https://github.com/Minionguyjpro/Inno-Setup-Action)
+
+##### ClassIsland
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 
+##### ArkTS
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Groupguanfang&repo=arkTS)](https://github.com/Groupguanfang/arkTS)
 
 ### Some Pieces of Information | 一些基本信息
