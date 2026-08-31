@@ -67,6 +67,9 @@
 ##### Inno Setup Action
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Minionguyjpro&repo=Inno-Setup-Action)](https://github.com/Minionguyjpro/Inno-Setup-Action)
 
+##### SwiftUI-Onboarding
+[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Sedlacek-Solutions&repo=SwiftUI-Onboarding)](https://github.com/Sedlacek-Solutions/SwiftUI-Onboarding)
+
 ##### ClassIsland
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 
