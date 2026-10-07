@@ -85,6 +85,20 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryoudyfz">
 </p>
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0001-9996-0233"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0001-9996-0233
+</a>
+
 - 💬 Ask me for software development assistance or Chinese-English translation
 - 📫 To reach me at hi@dannyfeng.top
 - 😄 Pronouns: She/Her
